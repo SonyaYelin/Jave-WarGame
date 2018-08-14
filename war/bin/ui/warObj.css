@@ -1,0 +1,16 @@
+.root{
+ -fx-alignment: center ;
+}
+
+.label { 
+    -fx-text-fill: gray;
+    -fx-font-size: 12px;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-alignment: center ;
+}
+
+.image-view {
+   -fx-pref-height: 10px;
+   -fx-pref-width: 10px;
+}

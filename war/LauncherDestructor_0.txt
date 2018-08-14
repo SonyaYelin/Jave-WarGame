@@ -1,0 +1,4 @@
+14/8/2018 11:20:51
+End of launcher #L101 destruct
+success: true
+

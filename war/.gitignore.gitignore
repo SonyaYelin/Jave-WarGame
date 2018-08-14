@@ -1,0 +1,16 @@
+/bin/
+
+# Eclipse settings
+.settings
+
+# Eclipse Core      
+.project
+/lib/
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
+*classpath*
+copy.classpath
+
+.*
+!.gitignore

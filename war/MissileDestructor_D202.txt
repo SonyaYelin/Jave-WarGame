@@ -1,0 +1,4 @@
+14/8/2018 11:20:54
+End of missile #M2destruct
+success: true
+

@@ -1,0 +1,36 @@
+14/8/2018 11:20:47
+End of missile-launch
+launcher: #L102 missile: #M3 launchTime: 3, destination: Ofakim, landTime: 6, demage: 5000
+
+14/8/2018 11:20:48
+End of missile #M1destruct
+success: true
+
+14/8/2018 11:20:48
+End of missile-launch
+launcher: #L101 missile: #M1 launchTime: 1destructTime: 7
+
+14/8/2018 11:20:51
+End of launcher #L101 destruct
+success: true
+
+14/8/2018 11:20:53
+End of missile #M4destruct
+success: true
+
+14/8/2018 11:20:53
+End of missile-launch
+launcher: #L102 missile: #M4 launchTime: 8destructTime: 12
+
+14/8/2018 11:20:54
+End of missile #M2destruct
+success: true
+
+14/8/2018 11:21:1
+End of missile-launch
+launcher: #L102 missile: #M5 launchTime: 12, destination: Beer-Sheva, landTime: 20, demage: 1000
+
+14/8/2018 11:21:2
+End of missile #M3destruct
+success: false
+damage: 5000

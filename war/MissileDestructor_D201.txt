@@ -1,0 +1,12 @@
+14/8/2018 11:20:48
+End of missile #M1destruct
+success: true
+
+14/8/2018 11:20:53
+End of missile #M4destruct
+success: true
+
+14/8/2018 11:21:2
+End of missile #M3destruct
+success: false
+damage: 5000
